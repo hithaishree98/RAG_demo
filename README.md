@@ -1,7 +1,7 @@
 # LangChain_RAG
 
 ## 🧠 Overview
-This project implements an **AI-powered conversational assistant** capable of answering questions directly from uploaded documents using **Retrieval-Augmented Generation (RAG)**.  
+This project implements an **conversational assistant** capable of answering questions directly from uploaded documents using **Retrieval-Augmented Generation (RAG)**.  
 It combines **LangChain**, **ChromaDB**, and **Groq language models** to build a chatbot that retrieves relevant document chunks and generates contextually accurate, human-like responses.
 
 Unlike typical generative models that rely purely on pretrained knowledge, this system grounds its responses in user-provided documents—ensuring **accuracy**, **traceability**, and **domain adaptability**.  
